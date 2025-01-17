@@ -1,0 +1,48 @@
+:root {
+  --color-primary: #ff6700;
+  --color-secondary: #1b0e5e;
+  --color-grey-dark: #333333;
+  --color-grey-light: #c0c5c1;
+  --color-offwhite: #fafafa;
+  --color-offblack: #222222;
+  --color-error: #ec0c39;
+  font-family: "Metropolis", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-grey-dark);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+h1 {
+  font-size: 3rem;
+  color: var(--color-primary);
+}
+
+p {
+  font-size: 1.5rem;
+  color: var(--color-offwhite);
+}
+
+h1,
+p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
