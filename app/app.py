@@ -20,7 +20,7 @@ def run_flask():
     app.run(debug=True, use_reloader=False)
 
 def create_webview():
-    window = webview.create_window('Raspberry Pi Flask App', 'http://127.0.0.1:5000', fullscreen=True)
+    window = webview.create_window('Raspberry Pi Desk Display', 'http://127.0.0.1:5000', fullscreen=True)
     webview.start()
 
 if __name__ == '__main__':
