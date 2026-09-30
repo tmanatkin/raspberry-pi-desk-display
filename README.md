@@ -1,6 +1,6 @@
 # Raspberry Pi Desk Display
 
-Raspberry Pi fullscreen display app using Flask.
+Fullscreen desk display app using a Raspberry Pi.
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-222222?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
 ![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask)
