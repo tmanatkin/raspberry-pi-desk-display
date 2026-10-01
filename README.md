@@ -7,5 +7,5 @@ Small always-on desk display running on a Raspberry Pi.
 ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python)
 
 - Fullscreen pywebview window with a local Flask server
-- Dedicated display scree with rotary encoder controls
+- Dedicated display screen with rotary encoder controls
 - Work in progress...
