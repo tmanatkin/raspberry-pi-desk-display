@@ -6,6 +6,6 @@ Fullscreen desk display app using a Raspberry Pi.
 ![Flask](https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask)
 ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python)
 
-- Raspberry Pi with a small screen and rotary encoder
+- Built for a Raspberry Pi with a small screen and rotary encoder
 - Flask server and pywebview window launched together
-- Currently in progress
+- Work in progress...
